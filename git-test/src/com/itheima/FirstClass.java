@@ -11,4 +11,10 @@ public class FirstClass {
         System.out.println("hello git5");
         System.out.println("hello git6");
     }
+
+    public void test(){
+        System.out.println("主干内容");
+    }
+
+
 }
