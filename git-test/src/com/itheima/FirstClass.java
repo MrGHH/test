@@ -12,6 +12,8 @@ public class FirstClass {
         System.out.println("hello git6");
 
         System.out.println("分支的内容");
+
+        System.out.println("克隆一方对项目的修改");
     }
 
     public void test(){
