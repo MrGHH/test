@@ -10,6 +10,8 @@ public class FirstClass {
 
         System.out.println("hello git5");
         System.out.println("hello git6");
+
+        System.out.println("分支的内容");
     }
 
     public void test(){
